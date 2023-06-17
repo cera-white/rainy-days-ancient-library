@@ -9,7 +9,7 @@ Technologies used:
 
 ## Project Setup
 
-This project can be imported into Unity (2D).
+This project can be imported into Unity (3D).
 
 For convenience, the WebGL published version of the game is available in the "Build" directory.
 
